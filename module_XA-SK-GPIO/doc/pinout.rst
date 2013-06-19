@@ -1,19 +1,19 @@
-XA-SK-GPIO Functional Pins
+XA-SK-GPIO functional pins
 ++++++++++++++++++++++++++
 
-This table shows the port mapping for each of the Slice Card Signal IO, and the Slicekit Slot connector pin it is located on.
+This table shows the port mapping for each of the sliceCARD signal I/O, and the sliceKIT slot connector pin it is located on.
 
 =================== ========= ======== ======== ======== ====== ===============================
 Function            STAR      TRIANGLE SQUARE   CIRCLE   PIN    Description
 =================== ========= ======== ======== ======== ====== ===============================
-GPIO_0              NC        1A       NC       1A       B2     1 Bit port free for GPIO
-GPIO_1              NC        1D       NC       1D       B4     1 Bit port free for GPIO
-GPIO_2              NC        1E       NC       1E       A3     1 Bit port free for GPIO
-GPIO_3              NC        1H       NC       1H       A4     1 Bit port free for GPIO
+GPIO_0              NC        1A       NC       1A       B2     1 bit port free for GPIO
+GPIO_1              NC        1D       NC       1D       B4     1 bit port free for GPIO
+GPIO_2              NC        1E       NC       1E       A3     1 bit port free for GPIO
+GPIO_3              NC        1H       NC       1H       A4     1 bit port free for GPIO
 UART_TX             1C        1K       1C       1K       B10    RS232 TX
 UART_RX             1G        1I       1G       1I       B15    RS232 RX
-I2C_SCL             1F        1L       1F       1L       A15    I2C Clock for ADC
-I2C_SDA             1B        1J       1B       1J       A8     I2C Data for ADC
+I2C_SCL             1F        1L       1F       1L       A15    I2C clock for ADC
+I2C_SDA             1B        1J       1B       1J       A8     I2C data for ADC
 GPO_0/LED_0         4A0       4E0      4A0      4E0      B6     GP output, connected to LED
 GPO_1/LED_1         4A1       4E1      4A1      4E1      B7     GP output, connected to LED
 GPO_6/LED_2         4A2       4E2      4A2      4E2      A6     GP output, connected to LED
