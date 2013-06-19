@@ -1,9 +1,9 @@
-Slicekit Hardware Manual
+sliceKIT Hardware Manual
 -----------------------------------------
 
 .. toctree::
 
    Overview <overview>
-   Core Board <l2_core_board> 
-   Slice Cards and Slots <slice_cards>
-   Designing a Slice Card <design_your_own>
+   Core board <l2_core_board> 
+   sliceCARDs and slots <slice_cards>
+   Designing a sliceCARD <design_your_own>
