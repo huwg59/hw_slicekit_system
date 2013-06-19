@@ -1,7 +1,7 @@
 Collateral
 ==========
 
-Available design files for this Slice Card are as follows:
+Available design files for this sliceCARD are as follows:
 
 ============ ===========================================================
 Item         Location
