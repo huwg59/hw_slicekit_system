@@ -1,4 +1,4 @@
-XA-SK-GPIO sliceCARD hardware guide
+XA-SK-GPIO sliceCARD Hardware Guide
 ------------------------------------
 
 .. toctree::
