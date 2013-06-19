@@ -1,4 +1,4 @@
-XA-SK-SCR480 sliceCARD hardware guide
+XA-SK-SCR480 sliceCARD Hardware Guide
 --------------------------------------
 
 .. toctree::
