@@ -1,4 +1,4 @@
-XA-SK-AUDIO Slice Cadr hardware Guide
+XA-SK-AUDIO sliceCARD hardware guide
 -------------------------------------
 
 .. toctree::
