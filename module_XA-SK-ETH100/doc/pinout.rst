@@ -1,10 +1,9 @@
-
-XA-SK-GPIO Functional Pins
+XA-SK-GPIO functional pins
 ++++++++++++++++++++++++++
 
-This table shows the port mapping for each of the Slice Card Signal IO, and the Slicekit Slot connector pin it is located on.
+This table shows the port mapping for each of the sliceCARD signal I/O, and the sliceKIT slot connector pin it is located on.
 
-Note that when in the CIRCLE slot, it will not be possible to access the phy via teh SMI interface.
+Note that when in the CIRCLE slot, it is not possible to access the PHY via the SMI interface.
 
 =================== ========= ======== ======== ======== ====== ===============================
 Function            STAR      TRIANGLE SQUARE   CIRCLE   PIN    Description
