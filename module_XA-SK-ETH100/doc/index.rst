@@ -1,4 +1,4 @@
-XA-SK-ETH100 Slice Card Hardware Guide
+XA-SK-ETH100 sliceCARD hardware guide
 --------------------------------------
 
 .. toctree::
