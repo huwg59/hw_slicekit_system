@@ -1,17 +1,21 @@
-The Multi Uart Slice Card provides eight 115.2 Kbaud Full Duplex Uarts connected to two 8-bit ports. Combined with sc_multi_uart xSOFTip, it allows XCORE multicore microcontrollers to implement multiple fast RS232 or TTL UARTs in the minimum number of logical cores. This Slice Card along with the Ethernet Slice Card and the associated xSoftIp also form the basis of a fully feature Ethernet-to-multi-serial reference design.  
+The Multi UART sliceCARD provides eight 115.2 Kbaud full duplex UARTs connected to two 8-bit ports. 
+Combined with sc_multi_uart xSOFTip, it allows xCORE multicore microcontrollers to implement multiple fast 
+RS232 or TTL UARTs in the minimum number of logical cores. This sliceCARD along with the Ethernet sliceCARD 
+and the associated xSOFTip also form the basis of a fully feature Ethernet-to-multi-serial reference design.  
 
 Features
 --------
 
-   * 8 full duplex RS232 UARTs via IO headers
+   * 8 full duplex RS232 UARTs via I/O headers
    * DB9 connector allowing RS232 parallel cable to connect to one of the UARTs (cable not included)
-   * up to 115.2 Kbaud
-   * configurable parity, stop bits, bits per character
+   * Up to 115.2 Kbaud
+   * Configurable parity, stop bits, bits per character
 
 
-Standalone Demo
+Standalone demo
 ---------------
-The standalone demo for this slice card uses the multi UART xSOFTip to create a UART and send data to and from a PC COM port.
+The standalone demo for this sliceCARD uses the multi UART xSOFTip to create a UART and send data to and 
+from a PC COM port.
 
 BUY NOW
 -------
