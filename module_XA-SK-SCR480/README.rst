@@ -1,7 +1,12 @@
-The Display Slice Card brings a 480 x 272 RGB display to sliceKIT. The xCORE multicore microcontroller drives the display directly without the use of an external LCD controller, via a parallel RGB interface.   Using the xSOFTip LCD controller you can add a display to any system.  
-The SDRAM slice could also be a useful addition to your system, providing additional data memory for frame buffering.
+The LCD Display sliceCARD brings a 480 x 272 RGB display to sliceKIT. 
+The xCORE multicore microcontroller drives the display directly without 
+the use of an external LCD controller, via a parallel RGB interface.  
+Using the xSOFTip LCD controller you can add a display to any system.  
+The SDRAM slice could also be a useful addition to your system, providing 
+additional data memory for frame buffering.
 
-Want to drive a different display? - no problem, the LCD xSOFTip can easily be modified to support other display configurations, up to 800x600. 
+Want to drive a different display? - no problem, the LCD xSOFTip can 
+easily be modified to support other display configurations, up to 800x600. 
 
 
 Features
@@ -13,7 +18,9 @@ Features
 
 Standalone Demo
 ---------------
-The standalone demo for this slice card drives the display with a refresh rate of 66Hz. A dual line buffer implementatio uses the internal xCORE memory to display a bouncing 'X' on the screen.
+The standalone demo for this sliceCARD drives the display with a refresh 
+rate of 66Hz. A dual line buffer implementation uses the internal xCORE 
+memory to display a bouncing 'X' on the screen.
 
 BUY NOW
 -------
