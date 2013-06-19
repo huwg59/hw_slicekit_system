@@ -1,4 +1,4 @@
-XA-SK-UART-8 Slice Card Hardware Guide
+XA-SK-UART-8 sliceCARD Hardware Guide
 --------------------------------------
 
 .. toctree::
