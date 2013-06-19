@@ -1,7 +1,7 @@
-XA-SK-GPIO Functional Pins
+XA-SK-GPIO functional pins
 ++++++++++++++++++++++++++
 
-This table shows the port mapping for each of the Slice Card Signal IO, and the Slicekit Slot connector pin it is located on.
+This table shows the port mapping for each of the sliceCARD signal I/O, and the sliceKIT slot connector pin it is located on.
 
 =================== ========= ======== ======== ====== ===============================
 Function            STAR      TRIANGLE SQUARE   PIN    Description
