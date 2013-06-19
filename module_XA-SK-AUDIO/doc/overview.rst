@@ -1,26 +1,31 @@
-Slice Card Overview
+sliceCARD overview
 ===================
 
-Pack Contents
+Pack contents
 -------------
 
-   * One XA-SK-AUDIO Slice Card
+   * One XA-SK-AUDIO sliceCARD
 
-4 Channel Audio
+4 channel audio
 ----------------
 
-Four input and four output channels are provided on the Slice Card via an I2S interface to two CS4270 stereo audio codecs with a shared 2-wire bus for configuration. The xSOFTip I2S driver component drives all 4 channels in both directions at sample rates up to 192 KHz and takes care of codec configuration. Audio clock generation is provided via a CS2100-CP programmable PLL.
+Four input and four output channels are provided on the sliceCARD via an 
+I2S interface to two CS4270 stereo audio codecs with a shared 2-wire bus 
+for configuration. The xSOFTip I2S driver component drives all 4 channels 
+in both directions at sample rates up to 192 kHz and takes care of codec 
+configuration. Audio clock generation is provided via a CS2100-CP programmable PLL.
 
 MIDI 
 ----
 
-MIDI In and MIDI out connectors are provided. A stand alone MIDI xSOFTip component to work with this Slice Card is under development.
+MIDI In and MIDI Out connectors are provided. A stand alone MIDI xSOFTip component 
+to work with this sliceCARD is under development.
 
-SPDIF Transmit
---------------
+S/PDIF Transmit
+---------------
 
-An SPDIF digital audio output is provided on the board. A stand alone SPDIF transmit xSOFTip component to work with this Slice Card is under development.
-
+An S/PDIF digital audio output is provided on the board. A stand alone S/PDIF 
+transmit xSOFTip component to work with this sliceCARD is under development.
 
 
 
