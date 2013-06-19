@@ -1,4 +1,8 @@
-The GPIO Slice Card provides a collection of features to sliceKIT including LEDs, buttons and A/D inputs. Combined with xSOFTip it allows simple input/output functions to be evaluated easily, and provides I/O expansion to connect your sliceKIT to other systems. The quick start guide will help you get up and running with sliceKIT in seconds.
+The GPIO sliceCARD provides a collection of features to sliceKIT including 
+LEDs, buttons and A/D inputs. Combined with xSOFTip it allows simple input/output 
+functions to be evaluated easily, and provides I/O expansion to connect your 
+sliceKIT to other systems. The quick start guide will help you get up and 
+running with sliceKIT in seconds.
 
 Features
 --------
@@ -9,9 +13,10 @@ Features
    * 4 channel A/D via I2C interface
    * Thermistor input via A/D
 
-Standalone Demo
+Standalone demo
 ---------------
-The standalone demo for this slice card allows you to use xSOFTip to flash LEDs, read the ADC via I2C and output to the console via JTAG.
+The standalone demo for this sliceCARD allows you to use xSOFTip to flash LEDs, 
+read the ADC via I2C and output to the console via JTAG.
 
 BUY NOW
 -------
