@@ -1,5 +1,4 @@
-
-Slicekit System Pins
+sliceKIT system pins
 ++++++++++++++++++++
 
 These system functions are common between all slices regardless of type, acces to this functionality varies depending on which slot is employed.
@@ -12,9 +11,9 @@ TCK                 NC        NC       B2       NC       JTAG clock from XTAG
 TMS                 NC        NC       A3       NC       JTAG test mode select from XTAG
 TDO                 NC        NC       A4       NC       JTAG chain from XTAG
 TDI                 NC        NC       B4       NC       JTAG chain from XTAG
-MSEL                NC        NC       A1       NC       Boot Mode Select from XTAG
-RST_N               A16       A16      A16      A16      System Reset supplied from Core Board
-CLK                 B14       B14      B14      B14      20 MHz clock Supplied from Core Board
+MSEL                NC        NC       A1       NC       Boot mode select from XTAG
+RST_N               A16       A16      A16      A16      System reset supplied from Core Board
+CLK                 B14       B14      B14      B14      20 MHz clock supplied from Core Board
 5V                  A2        A2       A2       A2       5 Volts supplied from Core Board
 3V3                 B5        B5       B5       B5       3 Volts supplied from Core Board 
 GND                 B3        B3       B3       B3       Ground supplied from Core Board 
@@ -25,10 +24,10 @@ GND                 B16       B16      B16      B16      Ground supplied from Co
 GND                 A14       A14      A14      A14      Ground supplied from Core Board 
 =================== ========  ======== ======== ======== ======================================
 
-Generic Slice Pinout Options
+Generic slice pinout options
 ++++++++++++++++++++++++++++
 
-This table shows the port mapping for each of the Slice Card Signal IO, and the Slicekit Slot connector pin it is located on.
+This table shows the port mapping for each of the sliceCARD signal I/O, and the sliceKIT slot connector pin it is located on.
 
 =================== ========= ======== ======== ======== ====== ===============================
 Function            STAR      TRIANGLE SQUARE   CIRCLE   PIN    Description
