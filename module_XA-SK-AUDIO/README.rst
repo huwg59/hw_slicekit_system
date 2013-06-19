@@ -1,5 +1,9 @@
-The Audio Slice Card provides audio and MIDI connectivity to sliceKIT. Four audio input and four audio output channels are provided on the Slice Card via an I2S interface to audio codecs. The xSOFTip I2S component drives all 4 channels in both directions at sample rates up to 192 KHz.  Additional features include an SPDIF output, MIDI input and output connectors.
-If you're building an audio application, this is the Slice for you!
+The Audio sliceCARD provides audio and MIDI connectivity to sliceKIT. Four audio 
+input and four audio output channels are provided on the sliceCARD via an I2S 
+interface to audio codecs. The xSOFTip I2S component drives all 4 channels in 
+both directions at sample rates up to 192 kHz.  Additional features include an 
+S/PDIF output, MIDI input and output connectors.
+If you're building an audio application, this is the slice for you!
 
 Features
 --------
@@ -10,9 +14,12 @@ Features
    * SPDIF output via coax
    * On board audio clocks
 
-Standalone Demo
+Standalone demo
 ---------------
-The standalone demo for this slice card allows you to use the I2S xSOFTip to create a digital audio loopback between the I2S inputs and I2S outputs. From there, you might want to add an SDRAM and your own audio effects, or perhaps you want Ethernet, or perhaps something entirely different... 
+The standalone demo for this sliceCARD allows you to use the I2S xSOFTip to create 
+a digital audio loopback between the I2S inputs and I2S outputs. From there, you 
+might want to add an SDRAM and your own audio effects, or perhaps you want Ethernet, 
+or perhaps something entirely different. 
 
 BUY NOW
 -------
