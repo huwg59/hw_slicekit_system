@@ -1,7 +1,8 @@
-XA-SK-SDRAM Functional Pins
+XA-SK-SDRAM functional pins
 +++++++++++++++++++++++++++
 
-This table shows the port mapping for each of the Slice Card Signal IO, and the Slicekit Slot connector pin it is located on.
+This table shows the port mapping for each of the sliceCARD signal I/O, and 
+the sliceKIT slot connector pin it is located on.
 
 =================== ========= ======== ======== ======= ===============================
 Function            STAR      TRIANGLE SQUARE   PIN     Description
@@ -9,7 +10,7 @@ Function            STAR      TRIANGLE SQUARE   PIN     Description
 SD_WE               1C        1K       1C       B10     SDRAM Write Enable
 SD_CAS              1B        1J       1B       A8      SDRAM CAS
 SD_RAS              1G        1I       1G       B15     SDRAM RAS
-SD_CLK              1F        1L       1F       A15     SDRAM Clock drivern from XCore
+SD_CLK              1F        1L       1F       A15     SDRAM Clock driven from xCORE
 SD_ADQ0             A0        B0       A0       B6      SDRAM Address and Data 
 SD_ADQ1             A1        B1       A1       B7      SDRAM Address and Data 
 SD_ADQ2             A2        B2       A2       B9      SDRAM Address and Data 
