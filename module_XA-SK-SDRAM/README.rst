@@ -1,16 +1,19 @@
-The SDRAM Slice card provides a large external random access memory to sliceKIT, perfect for any application where a large external data buffer is required: image buffering for a display controller, audio buffering for effects processing, or perhaps data capture, processing and logging.
+The SDRAM sliceCARD provides a large external random access memory to sliceKIT, perfect for any 
+application where a large external data buffer is required: image buffering for a display controller, 
+audio buffering for effects processing, or perhaps data capture, processing and logging.
 
 
 Features
 --------
 
    * 8 MByte SDRAM
-   * Clock speed upto 50MHz
-   * Data rate upto 80MBytes/second
+   * Clock speed up to 50 MHz
+   * Data rate up to 80MBytes/second
 
-Standalone Demo
+Standalone demo
 ---------------
-The standalone demo for this slice card provides a simple example of reading and writing memory using the SDRAM xSOFTip.
+The standalone demo for this sliceCARD provides a simple example of reading and writing memory using the 
+SDRAM xSOFTip.
 
 
 BUY NOW
@@ -38,5 +41,8 @@ FIXME: Related IP LINK: https://github.com/xcore/sc_ethernet/tree/master/sc_sdra
 
 
 FIXME: Related Application LINK: https://github.com/xcore/sw_display_controller
+
+
+
 
 
